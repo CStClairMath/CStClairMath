@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CStClairMath
-- 👀 I’m interested in Algebraic Topology, Category Theory, Machine Learning, Math Education and the intersection of Art and Mathematics
+- 👀 I’m interested in Low Dimensional Topology, Knot Theory, Category Theory, Machine Learning, Math Education and the intersection of Art and Mathematics
 - 🌱 I’m currently learning Knot Heegaard Floer and Grid Homology
-- 📫 How to reach me: stclai22 \~~ at \~~ msu __ dot __ edu
+- 📫 How to reach me: stclai22@msu.edu
 
 <!---
 CStClairMath/CStClairMath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
